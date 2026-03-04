@@ -1,0 +1,1 @@
+Ez egy sima markdown language file.
